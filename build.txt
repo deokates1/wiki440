@@ -1,0 +1,270 @@
+running build
+running build_exe
+copying C:\Python27\lib\site-packages\cx_Freeze\bases\Win32GUI.exe -> build\exe.win32-2.7\arg_parse.exe
+copying C:\Windows\SYSTEM32\python27.dll -> build\exe.win32-2.7\python27.dll
+*** WARNING *** unable to create version resource
+install pywin32 extensions first
+writing zip file build\exe.win32-2.7\library.zip
+
+  Name                      File
+  ----                      ----
+m BUILD_CONSTANTS           
+m StringIO                  
+m UserDict                  
+m __builtin__               
+m __future__                C:\Python27\lib\__future__.py
+m __main__                  
+m _abcoll                   
+m _codecs                   
+m _codecs_cn                
+m _codecs_hk                
+m _codecs_iso2022           
+m _codecs_jp                
+m _codecs_kr                
+m _codecs_tw                
+m _collections              
+m _functools                
+m _hashlib                  C:\Python27\DLLs\_hashlib.pyd
+m _heapq                    
+m _io                       
+m _locale                   
+m _md5                      
+m _multibytecodec           
+m _random                   
+m _sha                      
+m _sha256                   
+m _sha512                   
+m _sre                      
+m _strptime                 C:\Python27\lib\_strptime.py
+m _struct                   
+m _threading_local          C:\Python27\lib\_threading_local.py
+m _warnings                 
+m _weakref                  
+m _weakrefset               
+m abc                       
+m arg_parse__main__         arg_parse.py
+m argparse                  C:\Python27\lib\argparse.py
+m array                     
+m atexit                    C:\Python27\lib\atexit.py
+m base64                    
+m bdb                       C:\Python27\lib\bdb.py
+m binascii                  
+m bz2                       C:\Python27\DLLs\bz2.pyd
+m cPickle                   
+m cStringIO                 
+m calendar                  C:\Python27\lib\calendar.py
+m cmd                       C:\Python27\lib\cmd.py
+m codecs                    
+m collections               C:\Python27\lib\collections.py
+m copy                      
+m copy_reg                  
+m cx_Freeze__init__         C:\Python27\lib\site-packages\cx_Freeze\initscripts\Console.py
+m datetime                  
+m difflib                   C:\Python27\lib\difflib.py
+m dis                       C:\Python27\lib\dis.py
+m doctest                   C:\Python27\lib\doctest.py
+m dummy_thread              C:\Python27\lib\dummy_thread.py
+P encodings                 
+m encodings.aliases         
+m encodings.ascii           
+m encodings.base64_codec    
+m encodings.big5            
+m encodings.big5hkscs       
+m encodings.bz2_codec       
+m encodings.charmap         
+m encodings.cp037           
+m encodings.cp1006          
+m encodings.cp1026          
+m encodings.cp1140          
+m encodings.cp1250          
+m encodings.cp1251          
+m encodings.cp1252          
+m encodings.cp1253          
+m encodings.cp1254          
+m encodings.cp1255          
+m encodings.cp1256          
+m encodings.cp1257          
+m encodings.cp1258          
+m encodings.cp424           
+m encodings.cp437           
+m encodings.cp500           
+m encodings.cp720           
+m encodings.cp737           
+m encodings.cp775           
+m encodings.cp850           
+m encodings.cp852           
+m encodings.cp855           
+m encodings.cp856           
+m encodings.cp857           
+m encodings.cp858           
+m encodings.cp860           
+m encodings.cp861           
+m encodings.cp862           
+m encodings.cp863           
+m encodings.cp864           
+m encodings.cp865           
+m encodings.cp866           
+m encodings.cp869           
+m encodings.cp874           
+m encodings.cp875           
+m encodings.cp932           
+m encodings.cp949           
+m encodings.cp950           
+m encodings.euc_jis_2004    
+m encodings.euc_jisx0213    
+m encodings.euc_jp          
+m encodings.euc_kr          
+m encodings.gb18030         
+m encodings.gb2312          
+m encodings.gbk             
+m encodings.hex_codec       
+m encodings.hp_roman8       
+m encodings.hz              
+m encodings.idna            
+m encodings.iso2022_jp      
+m encodings.iso2022_jp_1    
+m encodings.iso2022_jp_2    
+m encodings.iso2022_jp_2004 
+m encodings.iso2022_jp_3    
+m encodings.iso2022_jp_ext  
+m encodings.iso2022_kr      
+m encodings.iso8859_1       
+m encodings.iso8859_10      
+m encodings.iso8859_11      
+m encodings.iso8859_13      
+m encodings.iso8859_14      
+m encodings.iso8859_15      
+m encodings.iso8859_16      
+m encodings.iso8859_2       
+m encodings.iso8859_3       
+m encodings.iso8859_4       
+m encodings.iso8859_5       
+m encodings.iso8859_6       
+m encodings.iso8859_7       
+m encodings.iso8859_8       
+m encodings.iso8859_9       
+m encodings.johab           
+m encodings.koi8_r          
+m encodings.koi8_u          
+m encodings.latin_1         
+m encodings.mac_arabic      
+m encodings.mac_centeuro    
+m encodings.mac_croatian    
+m encodings.mac_cyrillic    
+m encodings.mac_farsi       
+m encodings.mac_greek       
+m encodings.mac_iceland     
+m encodings.mac_latin2      
+m encodings.mac_roman       
+m encodings.mac_romanian    
+m encodings.mac_turkish     
+m encodings.mbcs            
+m encodings.palmos          
+m encodings.ptcp154         
+m encodings.punycode        
+m encodings.quopri_codec    
+m encodings.raw_unicode_escape 
+m encodings.rot_13          
+m encodings.shift_jis       
+m encodings.shift_jis_2004  
+m encodings.shift_jisx0213  
+m encodings.string_escape   
+m encodings.tis_620         
+m encodings.undefined       
+m encodings.unicode_escape  
+m encodings.unicode_internal 
+m encodings.utf_16          
+m encodings.utf_16_be       
+m encodings.utf_16_le       
+m encodings.utf_32          
+m encodings.utf_32_be       
+m encodings.utf_32_le       
+m encodings.utf_7           
+m encodings.utf_8           
+m encodings.utf_8_sig       
+m encodings.uu_codec        
+m encodings.zlib_codec      
+m errno                     
+m exceptions                
+m fnmatch                   C:\Python27\lib\fnmatch.py
+m functools                 C:\Python27\lib\functools.py
+m genericpath               
+m getopt                    C:\Python27\lib\getopt.py
+m gettext                   C:\Python27\lib\gettext.py
+m hashlib                   C:\Python27\lib\hashlib.py
+m heapq                     C:\Python27\lib\heapq.py
+m imp                       
+m inspect                   C:\Python27\lib\inspect.py
+m io                        C:\Python27\lib\io.py
+m itertools                 
+m keyword                   C:\Python27\lib\keyword.py
+m linecache                 
+m locale                    C:\Python27\lib\locale.py
+P logging                   C:\Python27\lib\logging\__init__.py
+m math                      
+m nt                        
+m ntpath                    
+m opcode                    C:\Python27\lib\opcode.py
+m operator                  
+m optparse                  C:\Python27\lib\optparse.py
+m os                        
+m pdb                       C:\Python27\lib\pdb.py
+m posixpath                 
+m pprint                    C:\Python27\lib\pprint.py
+m quopri                    
+m random                    C:\Python27\lib\random.py
+m re                        C:\Python27\lib\re.py
+m repr                      
+m shlex                     C:\Python27\lib\shlex.py
+m signal                    
+m sre_compile               C:\Python27\lib\sre_compile.py
+m sre_constants             C:\Python27\lib\sre_constants.py
+m sre_parse                 C:\Python27\lib\sre_parse.py
+m stat                      
+m string                    
+m stringprep                
+m strop                     
+m struct                    
+m sys                       
+m tempfile                  C:\Python27\lib\tempfile.py
+m textwrap                  C:\Python27\lib\textwrap.py
+m thread                    
+m threading                 C:\Python27\lib\threading.py
+m time                      
+m token                     C:\Python27\lib\token.py
+m tokenize                  C:\Python27\lib\tokenize.py
+m traceback                 
+m types                     
+m unicodedata               C:\Python27\DLLs\unicodedata.pyd
+P unittest                  C:\Python27\lib\unittest\__init__.py
+m unittest.case             C:\Python27\lib\unittest\case.py
+m unittest.loader           C:\Python27\lib\unittest\loader.py
+m unittest.main             C:\Python27\lib\unittest\main.py
+m unittest.result           C:\Python27\lib\unittest\result.py
+m unittest.runner           C:\Python27\lib\unittest\runner.py
+m unittest.signals          C:\Python27\lib\unittest\signals.py
+m unittest.suite            C:\Python27\lib\unittest\suite.py
+m unittest.util             C:\Python27\lib\unittest\util.py
+m warnings                  
+m weakref                   
+m zipimport                 
+m zlib                      
+
+Missing modules:
+? _emx_link imported from os
+? ce imported from os
+? org.python.core imported from copy
+? os.path imported from os, shlex
+? os2 imported from os
+? os2emxpath imported from os
+? posix imported from os
+? pwd imported from posixpath
+? riscos imported from os
+? riscosenviron imported from os
+? riscospath imported from os
+? subprocess imported from os
+This is not necessarily a problem - the modules may not be needed on this platform.
+
+copying C:\Python27\DLLs\_hashlib.pyd -> build\exe.win32-2.7\_hashlib.pyd
+copying C:\Python27\DLLs\bz2.pyd -> build\exe.win32-2.7\bz2.pyd
+copying C:\Python27\DLLs\unicodedata.pyd -> build\exe.win32-2.7\unicodedata.pyd
